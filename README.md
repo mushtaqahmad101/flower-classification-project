@@ -1,2 +1,13 @@
-# flower-classification-project
-This is mini project to classify the varieties of flowers given within the data . In order to run the project you only need to type python app.py in the terminal of you vs code if all the files are correcly saved in the corresponding folders, it will give a link to browser where you can upload images and get predictions.
+# <strong>Flower Classification Project</strong>
+
+## <em>Overview</em>
+This project is a mini project aimed at classifying different varieties of flowers from the given dataset. The model takes an image as input and predicts the flower's variety based on the trained classification model.
+
+---
+
+## <strong>How to Run the Project Locally</strong>
+
+### 1. **Clone the Repository**:
+Clone this repository to your local machine using the following command:
+```bash
+git clone https://github.com/your-username/flower-classification-project.git
